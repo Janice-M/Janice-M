@@ -24,4 +24,4 @@
 
 #### Pronouns : unicorn :unicorn: , she :woman: , they :adult: 
   
-#### ⚡ Fun fact => :first_quarter_moon_with_face::full_moon: :last_quarter_moon_with_face:
+#### ⚡ Fun fact => :first_quarter_moon_with_face::full_moon::last_quarter_moon_with_face:
