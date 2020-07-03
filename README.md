@@ -18,7 +18,7 @@
 #### My name is `Janice ` . 
 #### I am a backend software programmer from Kenya :kenya: currently working with: :woman_juggling: Django, Node and GraphQL. 
 #### I am also currently learning Firebase :footprints: . 
-#### I am looking for help with backend open source projects in Django and Graphene Django :dragon_face:. 
+#### I am looking to collaborate :people_holding_hands: in backend open source projects in Django and Graphene Django :dragon_face:. 
 
 #### You can reach me on :love_letter: janiceink001@gmail.com or on twitter: [Jan :) :fairy_woman:](https://twitter.com/janice_nawal). 
 
