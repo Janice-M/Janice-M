@@ -24,6 +24,5 @@
 
 #### You can reach me on :love_letter: janicemukenyi@gmail.com
 
-#### Pronouns : unicorn :unicorn: , she :woman: , they :adult: 
+#### Pronouns : unicorn :unicorn: , she :woman: 
   
-#### ⚡ Fun fact => :first_quarter_moon_with_face::full_moon::last_quarter_moon_with_face:
