@@ -22,7 +22,7 @@
 
 #### I am looking to collaborate :people_holding_hands: in backend open source projects in Node.js, Django and Graphene Django :dragon_face:. 
 
-#### You can reach me on :love_letter: janiceink001@gmail.com or on twitter: [Jan :) :fairy_woman:](https://twitter.com/janice_nawal). 
+#### You can reach me on :love_letter: janicemukenyi@gmail.com
 
 #### Pronouns : unicorn :unicorn: , she :woman: , they :adult: 
   
