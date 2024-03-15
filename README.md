@@ -20,7 +20,7 @@
 #### I am a backend software programmer from `Kenya` :kenya: currently working with: :woman_juggling:  Node.js and React Native.
 
 
-#### I am looking to collaborate :people_holding_hands: in backend open source projects in Node.js and  :dragon_face:. 
+#### I am looking to collaborate :people_holding_hands: on open source projects in Node.js and React Native :dragon_face:. 
 
 #### You can reach me on :love_letter: janiceink001@gmail.com
 
